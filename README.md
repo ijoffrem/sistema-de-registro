@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
   
 ```npn install```
+
+Sistema de Registro 2
